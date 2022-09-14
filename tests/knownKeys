@@ -149,3 +149,6 @@ config_screenBrightnessSettingMaximumFloat
 config_screenBrightnessSettingMinimumFloat
 config_defaultRefreshRate
 config_defaultPeakRefreshRate
+config_udfps_hbm_type
+config_udfps_vendor_code
+config_udfpsEnrollProgressBar
