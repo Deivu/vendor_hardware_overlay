@@ -224,6 +224,9 @@
     <string-array name="config_tether_wifi_regexs">
         <item>ap\\d</item>
     </string-array>
+    <string-array name="config_biometric_sensors">
+        <item>0:2:15</item>
+    </string-array>
     <integer-array name="config_keyboardTapVibePattern">
         <item>40</item>
     </integer-array>
