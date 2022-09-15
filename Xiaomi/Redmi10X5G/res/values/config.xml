@@ -12,7 +12,6 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
 
     <!-- OLED anti burning screen -->
     <bool name="config_enableBurnInProtection">true</bool>
