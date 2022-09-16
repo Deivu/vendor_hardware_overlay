@@ -23,5 +23,4 @@
     <dimen name="status_bar_height_landscape">28dp</dimen>
     <!-- Notch location in the device -->
 	<string name="config_mainBuiltInDisplayCutout">M 0,0 L -56, 0 L -54, 28 L 54, 28 L 56, 0 Z @dp</string>
-    <string name="config_mainBuiltInDisplayCutoutRectApproximation">@android:string/permlab_dump</string>
 </resources>
